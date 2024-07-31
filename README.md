@@ -3,7 +3,7 @@
 
 #o que somos? e quais são nossos intuitos?
 
-Fundada originalmente em 5 de nov 2017 
+Fundada originalmente em 5 de nov 2020
 Se tornando ao longo do tempo uma organização ativista focada na programação e hacking com dois objetivos. 
 
 1) eliminar todas pessoas e comunidades que praticam o mal.
